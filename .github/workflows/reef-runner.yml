@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: 🐠 Generate marine-life contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: 5itspj/reef-runner-graph-@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
