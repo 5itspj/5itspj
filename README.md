@@ -47,8 +47,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/marine-life-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-repo/output/marine-life-contribution-graph.svg">
-  <img alt="marine life contribution graph" src="https://raw.githubusercontent.com/your-username/your-repo/output/marine-life-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5itspj/5itspj/output/reef-runner-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5itspj/5itspj/output/reef-runner-graph.svg">
+  <img alt="marine life contribution graph" src="https://raw.githubusercontent.com/5itspj/5itspj/output/reef-runner-graph.svg">
 </picture>
-
